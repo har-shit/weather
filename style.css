@@ -7,14 +7,15 @@
 
 /* --------------------background */
 .container-fluid{
-    background-image: url(./img/bg7.png);
+    /*background-image: url(./img/bg7.png);*/
     background-size: cover;
+    width: fit-content;
     height:auto;
 
 }
 
 .row{
-    padding-top: 10rem;
+    padding-top: 5rem;
     padding-bottom: auto;
     
 }
