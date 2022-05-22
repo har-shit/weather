@@ -7,20 +7,13 @@
 
 /* --------------------background */
 .container-fluid{
-    /*background-image: url(./img/bg7.png);*/
-    background-size: cover;
-    border: 2px solid rgb(255, 255, 255);
-    height: 100px;
-    padding: 10px 0;
-    display: flex;
-    justify-content: center;
-    height:auto;
-
+    background-image: url(./img/bg7.jpg);
+    background-position: 500%;
 }
 
 .row{
     padding-top: 5rem;
-    padding-bottom: auto;
+    padding-bottom: 14rem;
     
 }
 /* -----------------------------header */
