@@ -8,7 +8,7 @@
 /* --------------------background */
 .container-fluid{
     background-image: url(./img/bg7.jpg);
-    background-position: 500%;
+    background-position: 100%;
 }
 
 .row{
